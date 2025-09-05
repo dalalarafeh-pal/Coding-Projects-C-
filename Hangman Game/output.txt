@@ -1,0 +1,3 @@
+wrong number of arguments
+usage: ./hangman <secret word or phrase>
+if the secret is multiple words, you must qoute it
