@@ -1,0 +1,22 @@
+Number of players (3 to 10)? Random-number seed? Ada Lovelace: ends her turn with 2
+Margaret Hamilton: ends her turn with 0
+Katherine Johnson: ends her turn with 3
+Ada Lovelace: ends her turn with 1
+Margaret Hamilton: ends her turn with 0
+Katherine Johnson: ends her turn with 2
+Ada Lovelace: ends her turn with 3
+Katherine Johnson: ends her turn with 1
+Ada Lovelace: ends her turn with 2
+Margaret Hamilton: ends her turn with 1
+Katherine Johnson: ends her turn with 1
+Ada Lovelace: ends her turn with 2
+Margaret Hamilton: ends her turn with 1
+Katherine Johnson: ends her turn with 1
+Ada Lovelace: ends her turn with 1
+Margaret Hamilton: ends her turn with 0
+Katherine Johnson: ends her turn with 2
+Ada Lovelace: ends her turn with 2
+Katherine Johnson: ends her turn with 2
+Ada Lovelace: ends her turn with 0
+Margaret Hamilton: ends her turn with 0
+Katherine Johnson won!
